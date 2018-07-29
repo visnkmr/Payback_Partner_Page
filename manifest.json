@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "IndiaDeals",
+  "name": "Payback Partner Page",
   "version": "1.0",
 
-  "description": "Opens the best sites for deals in India in an incognito tab. For now they are Desidime and Roobai.But these change as per offers and the user reviews of these sites.",
+  "description": "Adds a button to firefox that takes you directly to payback online partners page.",
 "background": {
     "scripts": ["newtab.js"]
   },
